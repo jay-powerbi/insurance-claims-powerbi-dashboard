@@ -6,15 +6,20 @@ An interactive Power BI dashboard designed to help insurance stakeholders monito
 
 # Project Summary
 
+This dashboard helps business stakeholders monitor insurance claims performance by analyzing claim amounts, fraud risk, policyholder characteristics, and operational trends across multiple states.
+
+The dashboard provides an executive-level view of claims operations to support fraud detection, risk assessment, claims management, and data-driven business decision-making.
+
+
 | Item | Details |
 |------|---------|
 | **Industry** | Insurance |
 | **Role** | Power BI Developer |
-| **Tools** | Power BI, Power Query, DAX |
-| **Data Source** | Kaggle Insurance Claims Fraud Detection Dataset |
 | **Dashboard Type** | Executive Claims & Fraud Analytics Dashboard |
 | **Audience** | Claims Managers, Fraud Investigation Team, Business Stakeholders |
-| **Skills** | Data Modeling, KPI Design, Fraud Analytics, Executive Reporting |
+| **Tools** | Power BI, Power Query, DAX |
+| **Data Source** | Kaggle Insurance Claims Fraud Detection Dataset |
+| **Skills** | Data Modeling, KPI Design, Fraud Analytics, Executive Reporting, Data Visualization, Business Analysis |
 
 ---
 
